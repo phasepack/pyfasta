@@ -23,7 +23,7 @@ from numpy import linalg as la
 from time import time
 from typing import Callable
 
-from . import plots, proximal, stopping, linalg
+from . import proximal, stopping, linalg
 
 __author__ = "Noah Singer"
 
